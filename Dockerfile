@@ -1,1 +1,1 @@
-FROM xprobe/xinference:v1.3.0.post2
+FROM xprobe/xinference:v1.3.0.post1
